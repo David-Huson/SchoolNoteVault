@@ -1,0 +1,5 @@
+- Video surveillance or remote sensing
+- "infinite" data stream
+- Processed in real time
+	- Very difficult "moving target"
+- 

@@ -1,0 +1,4 @@
+- At rest on disk, in a file or DB
+- Finite amount
+- Processed in "batched"
+- Some video data can also be stored
