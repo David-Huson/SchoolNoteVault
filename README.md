@@ -1,0 +1,2 @@
+# SchoolNoteVault
+Obsidian 
