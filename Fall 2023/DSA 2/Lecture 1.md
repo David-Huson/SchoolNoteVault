@@ -17,3 +17,4 @@ Uniquely identifiable, each element has:
 - **Data part** 
 	- atomic or structured
 
+[[Algorithm Analysis]]

@@ -1,0 +1,12 @@
+- Operational Data sources
+- Enterprise resource palanning systems
+- usser desktops
+- master data management suystems 
+- external suppliers
+- RDBMS
+- flat files
+- xml files
+- message queues
+- proprietary formats
+- nosql formats
+- data lakes

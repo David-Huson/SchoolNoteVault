@@ -3,7 +3,6 @@
 ## What is the book about
 - Most of the time, writing a working program is not sufficient, the program must also be time efficient to run on large datasets
 - Throughout the book we will see how to estimate the running time of a program for large inputs, and more importantly **how to compare the running times of two programs without coding them**
-
 ## Maths review
 ### Formulas to Memorize
 #### Exponents

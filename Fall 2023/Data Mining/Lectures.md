@@ -1,0 +1,5 @@
+[[Lecture 1 - 2]]
+[[SchoolNotesVault/Fall 2023/Data Mining/Lectures/Lecture 3 |Lecture 3]]
+[[SchoolNotesVault/Fall 2023/Data Mining/Lectures/Lecture 4|Lecture 4]]
+[[SchoolNotesVault/Fall 2023/Data Mining/Lectures/Lecture 6|Lecture 6]]
+[[SchoolNotesVault/Fall 2023/Data Mining/Lectures/Lecture 7|Lecture 7]]

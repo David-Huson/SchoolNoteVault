@@ -55,7 +55,7 @@ A control program manages the execution of user programs to present errors and i
 
 ## Defining operating systems
 
-There is no universally accepted definition of what is part of the operating system.\
+There is no universally accepted definition of what is part of the operating system.
 The more common definition and one we normally follow is:
 
 > the operating system is the one program running at all times on the computer -- usually called the **kernel**
@@ -132,4 +132,12 @@ The interrupt mechanism also implements a system of **interrupt priority levels*
 
 ### Storage Structure
 
-The CPU can only load instructions from memory, so programs must be loaded into memory to run
+- The CPU can only load instructions from memory, so programs must be loaded into memory to run.
+- A typical instruction-execution cycle, as executed on a system with w [[von Neumann architecture]] first fetches an instruction from memory and stores it in the **instruction register**
+- Programs must be stored in long term, volatile memory, then loaded into RAM to be operated on by the CPU
+![[Pasted image 20230825124045.png]]
+### I/O Structure
+- a large portion is system code is dedicated to managing I/O
+- Recall from the beginning of this section that a gpc system consists of multiple devices, all of which exchange data via a common bus.
+![[Pasted image 20230825124159.png]]
+- Interrupt Driven 

@@ -10,9 +10,10 @@
 - Facilitate program execution
 - support program development
 - make sys easy to use
-- uses resources efficiently
+- uses resources efficiently as described in [[Scheduling#Goals|Goals of a Scheduler]] 
 
 > **MMU** -> memory management unit
+> requires a base and limit register
 
 ways in which programs can get shutdown w/o user intervention:
  - segfault
@@ -23,6 +24,8 @@ ways in which programs can get shutdown w/o user intervention:
 ![[Operating system diagram.excalidraw]]
 
 In kernel mode you can execute any instructions, in user mode you cannot execute privileged instructions
+
+We go into kernel mode via a trap instruction
 
 The operating system is on the Disk, in memory, and in the cpu cache while being executed
 
